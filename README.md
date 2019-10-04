@@ -1,5 +1,6 @@
 # 全栈开发资金后台管理系统
- ![image](https://github.com/TouchDreamRen/PersonalPage/raw/master/screenshots/screenshot.png)
+ ![image](https://github.com/zaxtseng/node-vue-fund/tree/master/client/screenshots/1.png)
+ ![image](https://github.com/zaxtseng/node-vue-fund/tree/master/client/screenshots/2.png)
 # 前端部分
 使用Vue-cli搭建项目,引入elementUI组件.
 配合后端部分,实现登录,注册,编辑,添加,删除,筛选等功能.
