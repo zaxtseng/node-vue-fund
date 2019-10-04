@@ -1,6 +1,6 @@
 # 全栈开发资金后台管理系统
- ![image](https://github.com/zaxtseng/node-vue-fund/tree/master/client/screenshots/1.png)
- ![image](https://github.com/zaxtseng/node-vue-fund/tree/master/client/screenshots/2.png)
+ ![image](https://github.com/zaxtseng/node-vue-fund/blob/master/client/screenshots/1.png)
+ ![image](https://github.com/zaxtseng/node-vue-fund/blob/master/client/screenshots/2.png)
 # 前端部分
 
 使用Vue-cli搭建项目,引入elementUI组件.
