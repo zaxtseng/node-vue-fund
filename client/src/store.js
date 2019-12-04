@@ -3,18 +3,23 @@ import Vuex from "vuex";
 
 Vue.use(Vuex);
 
-//判断是否认证通过
+
 const types = {
+  //判断是否认证通过
   SET_AUTHENTICATED: "SET_AUTHENTICATED",
+  //设置用户
   SET_USER: "SET_USER"
 };
 
 const state = {
+  //是否授权
   isAuthenticated: false,
+  //存储用户信息
   user: {}
 };
 
 const getters = {
+  //获取是否授权
   isAuthenticated: state => state.isAuthenticated,
   user: state => state.user
 };

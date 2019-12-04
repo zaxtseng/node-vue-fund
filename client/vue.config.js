@@ -54,7 +54,7 @@ module.exports = {
       //配置跨域
       '/api':{
         target:'http://localhost:5000/api',
-        ws:true,
+        ws:true, //websockets
         changOrigin:true,
         pathRewrite:{
           '^/api':''
